@@ -265,4 +265,9 @@ td {
     .location-card {
         text-align: left;
     }
+
+    .rate-table th:nth-child(3),
+    .rate-table td:nth-child(3) {
+        width: 36px;
+    }
 }
