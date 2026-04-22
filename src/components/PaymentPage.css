@@ -1,0 +1,44 @@
+.payment-page {
+  max-width: 700px;
+}
+
+.payment-card {
+  margin-top: 20px;
+  border: 1px solid #d8c8a2;
+  border-radius: 8px;
+  background: #fff7e8;
+  padding: 18px;
+  text-align: center;
+}
+
+.payment-label {
+  margin: 0;
+  font-size: 12px;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  color: #7a4a00;
+  font-weight: 700;
+}
+
+.payment-upi {
+  margin: 8px 0 0;
+  font-size: 20px;
+  font-weight: 700;
+  color: #1f1f1f;
+}
+
+.copy-upi-btn {
+  display: inline-block;
+  margin-top: 14px;
+}
+
+.payment-qr {
+  display: block;
+  width: 100%;
+  max-width: 320px;
+  margin: 16px auto 0;
+  border: 1px solid #d8c8a2;
+  border-radius: 8px;
+  background: #ffffff;
+}
+
